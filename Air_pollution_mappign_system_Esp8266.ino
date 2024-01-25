@@ -7,8 +7,8 @@
 SoftwareSerial arduino(13, 15);
 
 // Set your WiFi network credentials
-const char* ssid = "Galaxy A14 5G";
-const char* password = "masleschar3002";
+const char* ssid = "your SSID";
+const char* password = "Your Password";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
